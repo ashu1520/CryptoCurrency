@@ -9,3 +9,21 @@ Currently, two official plugins are available:
 
 
 Crypto currency api -> https://www.coingecko.com/en/developers/dashboard
+
+This Project is made using HTML, CSS, ReactJS .
+All the data of crypto is coming from API.
+For Now just 2 pages are linked using LINK fuctionality i.e., Home and Coin page.
+Final flow of the Project will be as given below.
+        -> Login/ Sign UP page
+        -> Home Dashboard
+        -> Feature -
+                -> Graph view of all the coin or selected coin in one page
+                -> Entire details of the coin selected will be shown in the page
+        -> Pricing calcu;ator
+                -> a calculator which will convert the price
+                ->amount required for the selected coin and quantity of coin.
+                -> and other calculation 
+        -> Blog
+                -> new Article related to the crypto currency 
+                -> link 
+                -> New related to the specific crypto coin that is selceted in the box.
